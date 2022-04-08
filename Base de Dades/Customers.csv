@@ -1,0 +1,3 @@
+﻿idCustomer_1,Nombre,Apellidos,DNI,Telefono,Email,FechaNacimiento,LugarNacimiento,CodigoPostal,Imagen
+1,Paco,"Lopez Lopez",73657633M,622693866,pllopez@gmail.com,01/01/1992,Silla,46460,null
+2,Raul,"Perez Perez",73657666N,622693869,rpperez@gmail.com,01/03/1998,Albal,46470,null
