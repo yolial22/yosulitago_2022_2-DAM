@@ -9,7 +9,7 @@
     - yosu1230@hotmail.com
 
 ### NOSOTROS
- [yolial]: https://github.com/yolial22/yosulitago_2022_2-DAM/blob/master/ProjecteFinal%20-%20Pagina%20Web/projectefinal/imagenes/Yosu.jpg
+ [yolial]: (https://github.com/yolial22/yosulitago_2022_2-DAM/blob/master/ProjecteFinal%20-%20Pagina%20Web/projectefinal/imagenes/Yosu.jpg)
 
 ### QUE ES 
  FABULAS PRAETERITA es un proyecto que se dedicara a asesorar a cualquier país, gobierno, organización, etc,
