@@ -1,0 +1,22 @@
+{
+    "header": 
+    {
+        "Home Page": "Home Page",
+        "About Us": "About Us",
+        "Viability and Marketing": "Viability and Marketing",
+        "Contact": "Contact"
+    },
+
+    "container": 
+    {
+        "TextHistoryHumanity": "History of LatinAmerica",
+        "TextCivilizationAztec": "History Aztec",
+        "TextCivilizationInka": "History Inka",
+        "TextCivilizationMayan": "History Mayan"
+    },
+
+    "footer": 
+    {
+        "TextFooter": "Creator"
+    }
+}

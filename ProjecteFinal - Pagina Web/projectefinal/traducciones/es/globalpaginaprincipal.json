@@ -1,0 +1,19 @@
+{
+    "header": 
+    {
+        "About Us": "Quienes Somos",
+        "Viability and Marketing": "Viabilidad y Marketing",
+        "History of Humanity": "Historia de la Humanidad",
+        "Contact": "Contacto"
+    },
+
+    "container": 
+    {
+        "TextSlogan": "Si te gustan las historias de las civilizaciones antiguas y sus secretos, tesoros y mitos, esta es tu empresa."
+    },
+
+    "footer": 
+    {
+        "TextFooter": "Creador"
+    }
+}

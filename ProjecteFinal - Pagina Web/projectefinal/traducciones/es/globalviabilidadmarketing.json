@@ -1,0 +1,22 @@
+{
+    "header": 
+    {
+        "Home Page": "Página Principal",
+        "About Us": "Quienes Somos",
+        "History of Humanity": "Historia de la Humanidad",
+        "Contact": "Contacto"
+    },
+
+    "container": 
+    {
+        "TextViabilityEconomic": "Viabilidad Economica",
+        "TextViabilityMarketing": "Viabilidad Marketing",
+        "TextVEconomic": "La viabilidad económica de la empresa será muy fuerte, ya que contaremos con un plan de capitalización y de inversión muy estable y segura por parte de los socios y también por parte de las fuentes de financiación, que adquiriremos de las distintas entidades bancarias, países, gobiernos asociaciones culturales, empresas, etc y por lo tanto, la viabilidad económica de la empresa será estable, potente y segura.",
+        "TextVMarketing": "La viabilidad de marketing de la empresa será bueno y potente, ya que estará adecuado a cualquier país, gobierno, organización, empresa, etc, también tendrá unos precios en sus productos y servicios, que se adecuaran a cualquier poder adquisitivo y también tendrá una buena comunicación entre nuestros trabajadores y nuestros clientes, ya que a través de nuestra página web, en el apartado de Contacto, nuestros clientes podrán enviarnos cualquier duda que tengan o cualquier cosa relacionada con la estructura u organización de la empresa, ya sea a través de las tecnologías que utilicemos, los trabajadores y expertos de los que disponemos, a que nos dedicamos, etc."
+    },
+
+    "footer": 
+    {
+        "TextFooter": "Creador"
+    }
+}

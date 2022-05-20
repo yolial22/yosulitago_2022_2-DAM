@@ -1,0 +1,28 @@
+{
+    "header": 
+    {
+        "Home Page": "Página Principal",
+        "About Us": "Quienes Somos",
+        "Viability and Marketing": "Viabilidad y Marketing",
+        "History of Humanity": "Historia de la Humanidad"
+    },
+
+    "container": 
+    {
+        "TextFormContact": "Formulario de Contacto",
+        "TextContact": "En este formulario de contacto, usted podrá enviarnos un email sobre cualquier cosa relacionada con la organización de la empresa o sobre cualquier cosa que quiera de nosotros.",
+        "TextName": "Nombre",
+        "PlaceholderName": "Ingrese su nombre",
+        "TextEmail": "Email",
+        "PlaceholderEmail": "Ingrese su email",
+        "TextCommentary": "Comentario",
+        "PlaceholderCommentary": "Ingrese su comentario",
+        "TextButtonSendFormContact": "Enviar Formulario de Contacto",
+        "TextButtonRestoreFormContact": "Restablecer Formulario de Contacto"
+    },
+
+    "footer": 
+    {
+        "TextFooter": "Creador"
+    }
+}

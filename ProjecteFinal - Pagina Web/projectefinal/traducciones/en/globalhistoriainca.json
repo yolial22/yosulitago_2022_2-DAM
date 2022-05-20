@@ -1,0 +1,48 @@
+{
+    "header": 
+    {
+        "Home Page": "Home Page",
+        "About Us": "About Us",
+        "Viability and Marketing": "Viability and Marketing",
+        "Contact": "Contact"
+    },
+
+    "container": 
+    {
+        "HistoryInka": "History",
+        "TextHistoryInka1": "The Inkas",
+        "TextHistoryInka2": "Centuries before the arrival of Christopher Columbus in the Antilles, several american peoples had reached a high degree of civilization, the most important being the aztecs, who dominated the center of Mexico, the mayans, who were established in the lowlands and highlands of the Yucatan peninsula, and the inkas, who were a group of quechua origin, forged along almost the entire length of the Andes mountain range.",
+        "TextHistoryInka3": "The inkas were of quechua origin, they were also a dominant clan and a very important civilization in the past, since the territory that the inkas had was called Tahuantinsuyo (four parts), so that their empire was the empire of the four parts of the world.",
+        "TextHistoryInka4": "The inka sovereign was a military, political and religious chief, he had a semi-divine character, since he was venerated as the personification of the Sun god and his power was based on a kind of theocratic absolutism and in exchange for the obligation to support his subjects, the inka sovereign imposed on them the duty to work in the construction of irrigation works, public buildings, bridges, tunnels and an extensive network of roads.",
+        "TextHistoryInka5": "This inka empire was hierarchized in three groups, according to the relationship that they had with the inka sovereign, the superior group was constituted by the inka sovereign himself, his ascendant brothers and descendants and including the inka sovereign older sister, with who he was obliged to marriage, to maintain the purity of his lineage, the second group were the palla, concubines of the inka sovereign, also of royal blood and their descendants, and then there was the lower group, which were the mom-kunas, concubines not related to the clan of the inka sovereign, with their respective descendants, the children of the concubines of the second and third class, constituted the aristocracy of the inka empire, from which the leading personal of the clergy, the army and the politics were extracted.",
+        "TextHistoryInkaEmpire1": "The Inka Empire",
+        "TextHistoryInkaEmpire01": "First Part of the Inka Empire",
+        "TextHistoryInkaEmpire2": "According to inka tradition, they descended from Manco Cápac, son of the Sun, who settled in Cuzco, coming from lake Titicaca in the thirteenth century and as with his first seven successors, during that time, the inka domain was limited to the city of Cuzco and its surroundings.",
+        "TextHistoryInkaEmpire3": "This empire began in the fifteenth century, with the Incas Pachacuti, Yupanqui (1438 - 1471 a.C.) and Tápac Yupanqui (1471 - 1493 a.C.) and both extended their domination, forming the Tahuantinsuyu, which would cover what is now Peru, Ecuador, Bolivia, southern Colombia and central and northern Chile and was an empire that was located west of the Pacific coast and east of the amazon jungle.",
+        "TextHistoryInkaEmpire4": "The successor of this empire, Huayna Cápac (1493 - 1525 a.C.), slightly expanded this empire, but his death divided the empire between his two sons, the kingdom of Cuzco, for Huascar Capac and the kingdom of Quito, for Atahualpa Capac, then a war broke out between the two brothers, to take total control of the empire (1527 - 1532 a.C.).",
+        "TextHistoryInkaEmpire5": "Due to its particular geographical location, the spanish did not know of the existence of this empire until a few decades after the discovery of America by Christopher Columbus in 1522 a.C. and in the course of an expedition in the San Juan River, Pascual the Andagoya, had news of the riches that housed this empire and his information pushed Francisco Pizarro and Diego the Almagro, to undertake the conquest of the empire.",
+        "TextHistoryInkaEmpire6": "Francisco Pizarro arrived to the region in the middle of the war between Huáscar Cápac and Atahualpa Cápac and like other astute conquerors, he knew how to take advantage of the internal divisions that existed in this empire and took advantage of this confrontation to conquer it (1532 - 1533 a.C.), since it supported first to Atahualpa Cápac, until he defeated and he executed their brother Huáscar Cápac and next, he made execute Atahualpa Cápac and he named inka sovereign, to their brother Manco Cápac II or Manco Inka (1533 - 1544 a.C.).",
+        "TextHistoryInkaEmpire02": "Second Part of the Inka Empire",
+        "TextHistoryInkaEmpire7": "Manco Inka or Manco Cápac II, treated the spanish as allies, until in the year 1536 a.C., he led a rebellion against them, but the spanish managed to defeat that rebellion, with the help of the own brother of the inka sovereign, Paullu Cápac and with that, Manco Inka retired to the mountainous region of Vilcabamba, where he maintained a focus of organized resistance, as an imitation of the inka empire.",
+        "TextHistoryInkaEmpire8": "He was succeeded by his sons Sayri Túpac (1544 - 1558 a.C.), Titu Cusi Yupanqui (1558 - 1571 a.C.) and Túpac Amaru I (1571-1572 a.C.), until 1572 a.C., the spanish captured the redoubt and executed the last inka and one of the daughters of Túpac Amaru, Túpac Amaru II or simply Túpac Amaru, would be a descendant of this empire and starred in the eighteenth century, an indigenous rebellion against the spanish, but in the end lost the battle against them and the spanish annihilated the little that remained of the inca empire.",
+        "TextMap": "Map of the Inka Empire",
+        "ChronologyInka": "Chronology",
+        "TextChronologyInkaCivilization1": "Inka Civilization",
+        "TextChronologyInkaCivilization01": "First Part of the de la Inka Civilization",
+        "TextChronologyInkaCivilization2": "Between 1099 - 1170 a.C., Manco Cápac founded the city of Cuzco in the year 1100 a.C.",
+        "TextChronologyInkaCivilization3": "Between 1438 - 1453 a.C., the kingdom of Pacacuti Inka Yupanqui began, who continued with the inka imperialist expansion policy between 1438 - 1471 a.C.",
+        "TextChronologyInkaCivilization4": "Between 1452 - 1475 a.C., the annexation of the Chimú kingdom by Inka Túpac Yupanqui took place and the Tahuantisunyu, an inka imperial organization, appeared in the year 1460 a.C.",
+        "TextChronologyInkaCivilization5": "Between 1493 - 1504 a.C., the reign of Huayna Cápac began between 1493 - 1525 a.C.",
+        "TextChronologyInkaCivilization02": "Second Part of the de la Inka Civilization",
+        "TextChronologyInkaCivilization6": "Between 1514 - 1527 a.C., the period of the inka civil war took place and Atahualpa took Huáscar Cápac prisoner, in the year 1425 a.C.",
+        "TextChronologyInkaCivilization7": "Between 1530 - 1532 a.C., Francisco Pizarro landed in Tumbes and founded the city of San Miguel de Piura in the year 1532 a.C.",
+        "TextChronologyInkaCivilization8": "Between 1533 - 1538 a.C., Atahualpa is captured by Francisco Pizarro and is executed in the year 1533 a.C.",
+        "TextChronologyInkaCivilization9": "Between 1767 - 1777 a.C., the revolt of Túpac Amaru against the spanish government of Viceroy Agustín de Jáuregui began in the year 1780 a.C.",
+        "TextChronologyInkaCivilization10": "Between 1781 - 1785 a.C., the last inka king Túpac Amaru died, executed in the Cuzco square in 1781 a.C."
+    },
+
+    "footer": 
+    {
+        "TextFooter": "Creator"
+    }
+}

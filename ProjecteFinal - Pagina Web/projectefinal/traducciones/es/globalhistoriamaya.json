@@ -1,0 +1,75 @@
+{
+    "header": 
+    {
+        "Home Page": "Página Principal",
+        "About Us": "Quienes Somos",
+        "Viability and Marketing": "Viabilidad y Marketing",
+        "Contact": "Contacto"
+    },
+
+    "container": 
+    {
+        "HistoryMayan": "Historia",
+        "TextHistoryMayan1": "Los Mayas",
+        "TextHistoryMayan2": "La civilización maya se extendió por el sur de Yucatán, parte de Guatemala y Honduras, entre los siglos tercero y decimoquinto.",
+        "TextHistoryMayan3": "Esta civilización no constituía un estado unificado, sino que se organizaban en varias ciudades-estado independientes entre si, que controlaban un territorio más o menos amplio y tampoco hablaban una única lengua.",
+        "TextHistoryMayanArt1": "Arte de los Mayas",
+        "TextHistoryMayanArt2": "Las pirámides mayas se hicieron de madera y piedra y entre las maderas, se usaron la coba y el zapote, por ser muy resistentes a los ataques de las termitas y entre las piedras, se usaron la caliza, la arenisca, el mármol, etc.",
+        "TextHistoryMayanArt3": "Se realizaron todo tipo de construcciones, palacios rectangulares y alargados, templos, juegos de pelota, calzadas que unían las ciudades principales, fortificaciones, baños de vapor, etc.",
+        "TextHistoryMayanArt4": "Hoy en día, aun se conservan las pirámides escalonadas en piedra y en lo alto de éstas pirámides, se colocaba el templo y estaban decoradas con pinturas de una variada gama de colores y relieves y en algunas de éstas pirámides, aun hay inscripciones de la escritura jeroglífica maya y las pirámides más importantes de esa época fueron, Copán, Quiriguá, Piedras Negras, Palenque y Tikal.",
+        "TextPyramid": "Pirámide Maya",
+        "TextHistoryMayanCulture1": "Cultura de los Mayas",
+        "TextHistoryMayanCulture2": "La civilización maya, desarrollo el sistema de escritura más completo de todos los pueblos indígenas americanos, con él escribieron todo tipo de textos de medicina, de botánica, de historia, de matemáticas, de astronomía, etc.",
+        "TextHistoryMayanCulture3": "Hoy en día, aun se conservan además de las inscripciones, algunos códices, como el Códice de Dresde, escrito en el siglo decimotercero, que contiene un tratado de adivinación y de astronomía, el Códice de París, escrito en el siglo decimotercero, que contiene profecías y adivinaciones, el Códice de Madrid, que contiene horóscopos y almanaques y el Códice Grolier, que aunque este muy mal conservado, aun contiene un calendario completo.",
+        "TextCodex": "Códice de los Mayas",
+        "TextHistoryMayanScienceCalendarAstronomy1": "Ciencias, Calendario y Astronomía de los Mayas",
+        "TextHistoryMayanScienceCalendarAstronomy2": "La civilización maya desarrollo un calendario muy preciso, con un año de 365 días, el año solar (Haab), que tenía 18 meses de 20 días cada uno y otro más de sólo 5 días y los nombres de los meses eran Pop, Uo, Zip, Zotz, Tzec, Xul, Yaxkin, Mol, Chen, Yax, Zac, Ceh, Mac, Kankin, Moan, Pax, Kayab, Cumbu y Uayeb.",
+        "TextHistoryMayanMathematics1": "Matemáticas de los Mayas",
+        "TextHistoryMayanMathematics2": "Esta civilización, utilizaba un sistema de numeración vigesimal posicional y también tenían un signo para representar el cero y así poder realizar operaciones matemáticas complejas.",
+        "TextHistoryMayanMathematics3": "El punto tenía un valor numérico de 1 y la raya de 5, así podían contar hasta 19 y hacer números mayores, igual que nosotros para hacer números mayores de 9 y para hacer eso, tenían que colocar esos signos en determinadas posiciones y al ser un sistema vigesimal, se consideraba al número 20 como unidad básica para la cuenta y cada espacio que se avanzaba en el número, representa 20 veces más que el espacio anterior y esto se entiende mejor si lo comparamos con el sistema que utilizamos nosotros hoy en día.",
+        "TextHistoryMayanMathematics4": "Nuestro sistema es un sistema decimal, o sea que nuestra unidad básica de cuenta es el 10 y tenemos por lo tanto signos numéricos para contar hasta el 9, si queremos contar más allá, necesitamos jugar con las posiciones y colocar al menos dos signos numéricos, uno en la primera posición y el otro en la segunda y la primera posición serán las unidades y la segunda como es un sistema decimal, representa 10 veces más que la primera, es decir, serán las decenas y así el número veinticinco nosotros lo escribimos 25, 5 de unidades más y 2 de unidades por 10 (2 x 10 = 20).",
+        "TextHistoryMayanMathematics5": "En resumen, lo que un maya haría sería lo siguiente, € ______ la raya ocupa la primera posición, que serán las unidades y por lo tanto será el número 5, el punto ocupa la segunda posición, que significa 20 veces más que las unidades, por lo tanto, un punto en la segunda posición vale 20 y dos puntos valdrán 40.",
+        "TextNumeration": "Numeración de los Mayas",
+        "TextHistoryMayanSociety1": "Sociedad de los Mayas",
+        "TextHistoryMayanSociety2": "En esta civilización, la elite social la constituían los sacerdotes y los nobles que residían en la ciudad, los campesinos vivían en las zonas rurales cercanas a la ciudad y la base de la economía era la agricultura y frecuentemente, se desbrozaban trozos de selva, para realizar nuevos cultivos y los principales cultivos fueron el maíz, el algodón y el cacao y este último, tuvo mucha importancia, ya que llegó a ser utilizado como moneda.",
+        "TextHistoryMayanSociety3": "También existía la esclavitud y estos esclavos eran la mano de obra para la construcción de las pirámides colosales, pero ayudados también por los campesinos.",
+        "TextHistoryMayanLife1": "Vida de los Mayas",
+        "TextHistoryMayanLife2": "El principal espectáculo de la civilización maya, era un juego de pelota.",
+        "TextHistoryMayanLife3": "Según algunos investigadores, los jugadores eran los prisioneros de guerra y se decapitaba a los que perdían, pero en realidad era más que un simple juego, para ellos era un ceremonial religioso, que representaba el paso de los astros y el sol (representado por la pelota), que era la fuente de la vida.",
+        "TextGameBall": "Juego de la Pelota",
+        "TextHistoryMayanBeliefsThoughts1": "Creencias y Pensamientos de los Mayas",
+        "TextHistoryMayanBeliefsThoughts2": "La civilización maya, creía que antes de existir nuestro mundo habían existido otros mundos, pero que estos otros mundos, habían sido destruidos por diferentes catástrofes y el universo se componía de tres partes, el cielo, la tierra y el inframundo, el cielo tenía 13 capas (la última de ellas en contacto con la tierra) y cada una de estas capas, estaba gobernada por uno de los Oxalahuntikú, el dios Itzamná, a quien se le representaba con forma de reptil o iguana y gobernaba el cielo y el inframundo que estaba debajo de la tierra y estaba dividido en 9 capas y cada una de estas capas era gobernada por uno de los Bolontiku o Señores de la Noche y además habían otros dioses que actuaban sobre las cosas cotidianas, el maíz, la miel, los mercados, etc.",
+        "ChronologyMayan": "Cronología",
+        "TextChronologyMayan1": "Los mayas fueron la civilización más antigua que se conoce en la región Mesoamericana, es decir, México, Guatemala, El Salvador, Honduras, Nicaragua y Costa Rica.",
+        "TextChronologyMayan2": "Su civilización se dividía en tres períodos principales, el período preclásico, el período clásico y el período posclásico, los cuales fueron precedidos por el período arcaico.",
+        "TextChronologyMayan3": "Los estudios modernos consideran a estos periodos, como divisiones arbitrarias de la cronología maya y dependiendo del autor, las definiciones de las fechas de inicio y fin, pueden varias hasta en un siglo de diferencia.",
+        "TextUbication": "Ubicación de los Mayas",
+        "TextChronologyMayanArchaic1": "Período Arcaico de la Civilización Maya",
+        "TextChronologyMayanArchaic2": "Fue en este período, cuando se establecieron los primeros asentamientos humanos y se dio inicio al desarrollo de la agricultura, en el año 1200 d.C.",
+        "TextAgriculture": "Agricultura de los Mayas",
+        "TextChronologyMayanPreClassic1": "Período Preclásico de la Civilización Maya",
+        "TextChronologyMayanPreClassic2": "Este período se dividió en el período temprano, medio y tardío y comenzó alrededor del 1000 a.C. y termino alrededor del 150 d.C.",
+        "TextChronologyMayanPreClassic3": "Durante este período, los mayas desarrollaron su primera civilización, quienes cultivaban cultivos como el maíz, el frijol, la calabaza y el chile.",
+        "TextChronologyMayanPreClassic4": "Este período también se caracterizó, por la existencia de comunidades sedentarias y la introducción de la cerámica y figurillas de barro cocido.",
+        "TextChronologyMayanPreClassic5": "En el período preclásico tardío, la ciudad de El Mirador creció hasta alcanzar una extensión de 16 kilómetros cuadrados y asimismo, la ciudad de Tikal, que ya era una ciudad importante.",
+        "TextSevenProphecies": "Siete Profecías Mayas",
+        "TextChronologyMayanClassic1": "Período Clásico de la Civilización Maya",
+        "TextChronologyMayanClassic2": "Este período duró entre el 250 - 900 d.C. y la civilización maya alcanzó su máximo desarrollo, tanto en el área social, económica, política, religiosa y artística.",
+        "TextChronologyMayanClassic3": "La población creció y también crecieron los centros, así como la superficie cultivable para la producción de productos básicos, utilizados en el consumo y en el comercio.",
+        "TextChronologyMayanClassic4": "En el aspecto económico, se implementó el trueque, que facilitó el intercambio y el desarrollo económico.",
+        "TextChronologyMayanClassic5": "La actividad arquitectónica también fue de gran relevancia, puesto que se construyeron sitios con centenares de edificios, algunos con numerosas habitaciones, pirámides monumentales de hasta 70 metros de altura y numerosas estelas y monumentos, con fechas de cuenta larga e inscripciones jeroglíficas, en las que se daban referencias a hechos históricos.",
+        "TextChronologyMayanClassic6": "En las grandes ciudades mayas de este período, la población se encontraba dispersa de los centros urbanos y el centro urbano contaba con varios edificios públicos, templos, adoratorios, palacios, pirámides, monasterios, juegos de pelota, observatorios, plataformas, etc. y todos estos lugares se encontraban alrededor de los patios y de las plazas.",
+        "TextCity": "Ciudad Maya",
+        "TextChronologyMayanPostClassic1": "Período Posclásico de la Civilización Maya",
+        "TextChronologyMayanPostClassic2": "Entre el 900 - 1521 d.C., este período marco el ocaso de la civilización maya y simbolizo una gran división entre los mayas, convirtiéndose en un período militarista, lo cual causó su decadencia y posterior desaparición.",
+        "TextChronologyMayanPostClassic3": "Entre las principales causas que se señalan de dicha desaparición, están los frecuentes y fuertes temblores de tierra que experimentaron en la región, el cambio climático que trajo consigo una alteración en el régimen pluvial, el cual dificultó los cultivos y volvió menos sana la zona, las epidemias de paludismo y de fiebre amarilla, el fracaso del sistema agrícola, por efecto del abuso del la desforestación y las luchas del pueblo contra el grupo minoritario de sacerdotes y nobles.",
+        "TextChronologyMayanPostClassic4": "Los grandes centros fueron abandonados y Yucatán se dividió en muchas provincias pequeñas, que vivieron en una constante conflicto.",
+        "TextChronologyMayanPostClassic5": "Este fue el principio de la desintegración de dicha civilización, en donde junto a los conflictos internos, se añadieron calamidades naturales que empeoraron cada vez más la situación, como un huracán en el año 1464 d.C., una epidemia de peste en el año 1480 d.C., la alta mortandad, debido a las guerras en el año 1496 d.C., por las plagas en el año 1516 d.C., etc.",
+        "TextChronologyMayanPostClassic6": "Después de la caída de Mayapan ante las tropas españolas, el Señor de Chichén, ltzá, se retiró hacia el sur y estableció su nueva capital en Ta Itzá o Tayasal, situada en una pequeña isla en mitad del Lago Petén y este fue el último reducto maya que resistió el asedio de los españoles, hasta el 1697 d.C."
+    },
+
+    "footer": 
+    {
+        "TextFooter": "Creador"
+    }
+}

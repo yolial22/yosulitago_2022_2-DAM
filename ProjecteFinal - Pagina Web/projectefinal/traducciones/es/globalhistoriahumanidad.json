@@ -1,0 +1,23 @@
+{
+    "header": 
+    {
+        "Home Page": "Página Principal",
+        "About Us": "Quienes Somos",
+        "Viability and Marketing": "Viabilidad y Marketing",
+        "Contact": "Contacto"
+    },
+
+    "container": 
+    {
+        "TextHistoryHumanity": "Historia de la Humanidad",
+        "TextCivilizationEgyptian": "Historia de Egipto",
+        "TextCivilizationGreek": "Historia de Grecia",
+        "TextCivilizationLatinAmerica": "Historia de LatinoAmérica",
+        "TextCivilizationNordic": "Historia Nórdica"
+    },
+
+    "footer": 
+    {
+        "TextFooter": "Creador"
+    }
+}

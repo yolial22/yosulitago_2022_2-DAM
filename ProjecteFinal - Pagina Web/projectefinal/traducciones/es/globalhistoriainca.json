@@ -1,0 +1,48 @@
+{
+    "header": 
+    {
+        "Home Page": "Página Principal",
+        "About Us": "Quienes Somos",
+        "Viability and Marketing": "Viabilidad y Marketing",
+        "Contact": "Contacto"
+    },
+
+    "container": 
+    {
+        "HistoryInka": "Historia",
+        "TextHistoryInka1": "Los Incas",
+        "TextHistoryInka2": "Siglos antes de la llegada de Cristóbal Colón a las Antillas, diversos pueblos americanos habían alcanzado un alto grado de civilización y los más importantes fueron los aztecas, que dominaban el centro del actual México, los mayas, que estaban establecidos en las tierras bajas y altas de la península del Yucatán y los incas, que eran un grupo de origen quechua, que se forjó a lo largo de casi la totalidad de la cordillera de los Andes.",
+        "TextHistoryInka3": "Los incas eran de origen quechua, eran también un clan dominante y una civilización muy importante en el pasado, ya que el territorio que tenían los incas se llamaba Tahuantinsuyo (cuatro partes), de modo que su imperio era el imperio de las cuatro partes del mundo.",
+        "TextHistoryInka4": "El soberano inca era un jefe militar, político y religioso, tenía un carácter semidivino, pues era venerado como personificación del dios Sol y su poder se basaba en una especie de absolutismo teocrático y a cambio de la obligación de sustentar a sus súbditos, dicho soberano inca, imponía a éstos, el deber de trabajar en la construcción de obras de regadío, edificios públicos, puentes, túneles y una extensa red de carreteras.",
+        "TextHistoryInka5": "Este imperio inca estaba jerarquizado en tres grupos, según el parentesco que tuvieran con el soberano inca, el grupo superior lo constituían el propio soberano inca, sus hermanos ascendientes y descendientes y incluida la hermana mayor del soberano inca, con quien éste estaba obligado a contraer matrimonio, para mantener la pureza de su linaje, el segundo grupo eran las palla, concubinas del soberano inca, también de sangre real y su descendencia y luego estaba el grupo inferior, que eran las mama-kunas, concubinas no emparentadas con el clan del soberano inca, con sus respectivos descendientes, los hijos de las concubinas de la segunda y la tercera clase, constituían la aristocracia del imperio inca, de donde se extraía el personal dirigente del clero, el ejército y la política.",
+        "TextHistoryInkaEmpire1": "El Imperio Inca",
+        "TextHistoryInkaEmpire01": "Primera Parte del Imperio Inca",
+        "TextHistoryInkaEmpire2": "Según la tradición inca, estos descendían de Manco Cápac, hijo del Sol, que se estableció en Cuzco, procedente del lago Titicaca en el siglo decimotercero y al igual que ocurre con sus siete primeros sucesores, durante esa época, el dominio inca se limitaba a la ciudad de Cuzco y sus alrededores.",
+        "TextHistoryInkaEmpire3": "Este imperio se inicio en el siglo decimoquinto, con los incas Pachacuti, Yupanqui (1438 - 1471 d.C.) y Túpac Yupanqui (1471 - 1493 d.C.) y ambos extendieron su dominación, formando propiamente el Tahuantinsuyu, que abarcaría lo que hoy es Perú, Ecuador, Bolivia, el sur de Colombia y el centro y el norte de Chile y era un imperio que se ubicaba al oeste de las costas del Pacífico y al este de la selva amazónica.",
+        "TextHistoryInkaEmpire4": "El sucesor de este imperio, Huayna Cápac (1493 - 1525 d.C.), expandió ligeramente dicho imperio, pero su muerte dividió el imperio entre sus dos hijos, el reino de Cuzco, para Huáscar Cápac y el reino de Quito, para Atahualpa Cápac, entonces estalló una guerra entre los dos hermanos, por hacerse con el control total del imperio (1527 - 1532 d.C.).",
+        "TextHistoryInkaEmpire5": "Debido a su particular situación geográfica, los españoles no supieron de la existencia de este imperio, hasta unas décadas después del descubrimiento de América por parte de Cristóbal Colón, en el año 1522 d.C. y en el transcurso de una expedición en el río San Juan, Pascual de Andagoya, tuvo noticias de las riquezas que albergaba este imperio y sus informaciones empujaron a Francisco Pizarro y Diego de Almagro, a emprender la conquista de dicho imperio.",
+        "TextHistoryInkaEmpire6": "Francisco Pizarro llegó a la región en plena guerra entre Huáscar Cápac y Atahualpa Cápac y como otros astutos conquistadores, supo sacar partido de las divisiones internas que habían en dicho imperio y aprovechó dicho enfrentamiento para conquistarlo (1532 - 1533 d.C.), ya que apoyó primero a Atahualpa Cápac, hasta que venció y ejecutó a su hermano Huáscar Cápac y a continuación, hizo ejecutar a Atahualpa Cápac y nombró soberano inca, a su hermano Manco Cápac II o Manco Inca (1533 - 1544 d.C.).",
+        "TextHistoryInkaEmpire02": "Segunda Parte del Imperio Inca",
+        "TextHistoryInkaEmpire7": "Manco Inca o Manco Cápac II, trató a los españoles como aliados, hasta que en el año 1536 d.C, encabezó una rebelión contra ellos, pero los españoles consiguieron derrotar a esa rebelión, con el auxilio del propio hermano del soberano inca, Paullu Cápac y con eso, Manco Inca se retiró a la región montañosa de Vilcabamba, donde mantuvo un foco de resistencia organizado, como remedo del imperio inca.",
+        "TextHistoryInkaEmpire8": "Le sucedieron sus hijos, Sayri Túpac (1544 - 1558 d.C.), Titu Cusi Yupanqui (1558 - 1571 d.C.) y Túpac Amaru I (1571-1572 d.C.), hasta que en el año 1572 d.C., los españoles tomaron el reducto y ejecutaron al último inca que quedaba y una de las hijas de Túpac Amaru, Túpac Amaru II o simplemente Túpac Amaru, sería descendiente de este imperio y protagonizó en el siglo decimoctavo, una sublevación indígena contra los españoles, pero al final perdió dicha batalla contra ellos y los españoles aniquilaron lo poco que quedaba del imperio inca.",
+        "TextMap": "Mapa del Imperio Inca",
+        "ChronologyInka": "Cronología",
+        "TextChronologyInkaCivilization1": "Civilización Inca",
+        "TextChronologyInkaCivilization01": "Primera Parte de la Civilización Inca",
+        "TextChronologyInkaCivilization2": "Entre 1099 - 1170 d.C., Manco Cápac fundó la ciudad de Cuzco en el año 1100 d.C.",
+        "TextChronologyInkaCivilization3": "Entre 1438 - 1453 d.C., comenzo el reinado de Pacacuti Inca Yupanqui, que continuó con la política de expansión imperialista de los incas, entre 1438 - 1471 d.C.",
+        "TextChronologyInkaCivilization4": "Entre 1452 - 1475 d.C., se produjo la anexión del reino Chimú, por parte de Inca Túpac Yupanqui y apareció el Tahuantisunyu, organización imperial inca, en el año 1460 d.C.",
+        "TextChronologyInkaCivilization5": "Entre 1493 - 1504 d.C., se inicio el reinado de Huayna Cápac, entre 1493 - 1525 d.C.",
+        "TextChronologyInkaCivilization02": "Segunda Parte de la Civilización Inca",
+        "TextChronologyInkaCivilization6": "Entre 1514 - 1527 a.C., se produjo el período de la guerra civil inca y Atahualpa tomo prisionero a Huascar Cápac, en el año 1425 d.C.",
+        "TextChronologyInkaCivilization7": "Entre 1530 - 1532 d.C., Francisco Pizarro desembarco en Tumbes y fundó la ciudad de San Miguel de Piura, en el año 1532 d.C.",
+        "TextChronologyInkaCivilization8": "Entre 1533 - 1538 d.C., Atahualpa fue capturado por Francisco Pizarro y murió ejecutado en el año 1533 d.C.",
+        "TextChronologyInkaCivilization9": "Entre 1767 - 1777 d.C., comenzó la revuelta de Túpac Amaru contra el gobierno español, del virrey Agustín de Jáuregui, en el año 1780 d.C.",
+        "TextChronologyInkaCivilization10": "Entre 1781 - 1785 d.C., murió el último rey inca Túpac Amaru, ejecutado en la plaza Cuzco en el año 1781 d.C."
+    },
+
+    "footer": 
+    {
+        "TextFooter": "Creador"
+    }
+}

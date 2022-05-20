@@ -1,0 +1,75 @@
+{
+    "header": 
+    {
+        "Home Page": "Home Page",
+        "About Us": "About Us",
+        "Viability and Marketing": "Viability and Marketing",
+        "Contact": "Contact"
+    },
+
+    "container": 
+    {
+        "HistoryMayan": "History",
+        "TextHistoryMayan1": "The Mayans",
+        "TextHistoryMayan2": "The Maya civilization spread through southern Yucatan, part of Guatemala and Honduras between the third and fifteenth centuries.",
+        "TextHistoryMayan3": "This civilization did not constitute a unified state, but was organized in several independent city-states that controlled a more or less extensive territory and did not speak a single language.",
+        "TextHistoryMayanArt1": "Art of the Mayans",
+        "TextHistoryMayanArt2": "The mayan pyramids were made of wood and stone and among the woods, coba and zapote were used, as they were very resistant to termite attacks, and among the stones, limestone, sandstone, marble, etc. were used.",
+        "TextHistoryMayanArt3": "All kinds of constructions were built, rectangular and elongated palaces, temples, ball games, roads linking the main cities, fortifications, vapor baths, etc.",
+        "TextHistoryMayanArt4": "Today, the pyramids are still preserved in stone and at the top of these pyramids, the temple was placed and were decorated with paintings of a wide range of colors and reliefs and in some of these pyramids, there are still inscriptions of mayan hieroglyphic writing and the most important pyramids of that time were, Copán, Quiriguá, Black Stones, Palenque and Tikal.",
+        "TextPyramid": "Pyramid Mayan",
+        "TextHistoryMayanCulture1": "Culture of the Mayans",
+        "TextHistoryMayanCulture2": "The mayan civilization, developed the most complete writing system of all the indigenous american peoples, with which they wrote all kinds of texts on medicine, botany, history, mathematics, astronomy, etc.",
+        "TextHistoryMayanCulture3": "Today, in addition to the inscriptions, some codices are still preserved, such as the Dresden Codex, written in the thirteenth century, which contains a treatise on divination and astronomy, the Paris Codex, written in the thirteenth century, which contains prophecies and divinations, the Madrid Codex, which contains horoscopes and almanacs, and the Grolier Codex, which, although very poorly preserved, still contains a complete calendar.",
+        "TextCodex": "Codex of the Mayans",
+        "TextHistoryMayanScienceCalendarAstronomy1": "Science, Calendar and Astronomy of the Mayans",
+        "TextHistoryMayanScienceCalendarAstronomy2": "The mayan civilization developed a very precise calendar, with a 365 days year, the solar year (Haab), which had 18 months of 20 days each and another one of only 5 days and the names of the months were Pop, Uo, Zip, Zotz, Tzec, Xul, Yaxkin, Mol, Chen, Yax, Zac, Ceh, Mac, Kankin, Moan, Pax, Kayab, Cumbu and Uayeb.",
+        "TextHistoryMayanMathematics1": "Matemáticas de los Mayans",
+        "TextHistoryMayanMathematics2": "This civilization used a positional vigesimal numbering system and also had a sign to represent zero in order to perform complex mathematical operations.",
+        "TextHistoryMayanMathematics3": "The point had a numerical value of 1 and the dash of 5, so they could count up to 19 and make larger numbers, just as we do to make numbers larger than 9 and to do that, they had to place those signs in certain positions and being a vigesimal system, the number 20 was considered as the basic unit for counting and each space that was advanced in the number, represents 20 times more than the previous space and this is better understood if we compare it with the system we use today.",
+        "TextHistoryMayanMathematics4": "Our system is a decimal system, that is to say that our basic unit of count is 10 and therefore we have numerical signs to count up to 9, if we want to count more, we need to play with the positions and place at least two numerical signs, one in the first position and the other in the second and the first position will be the units and the second as it is a decimal system, represents 10 times more than the first, that is to say, it will be the tens and so the number twenty-five we write it 25, 5 of units more and 2 of units by 10 (2 x 10 = 20).",
+        "TextHistoryMayanMathematics5": "In summary, what a mayan would do would be as follows, € ______ the dash occupies the first position, which will be the units and therefore will be the number 5, the dot occupies the second position, which means 20 times more than the units, therefore, a dot in the second position is worth 20 and two dots will be worth 40.",
+        "TextNumeration": "Numeration of the Mayans",
+        "TextHistoryMayanSociety1": "Society of the Mayans",
+        "TextHistoryMayanSociety2": "In this civilization, the social elite were the priests and the nobles who lived in the city, the peasants lived in the rural areas near the city and the basis of the economy was agriculture and frequently, pieces of jungle were cleared to grow new crops and the main crops were corn, cotton and cocoa and the latter was very important, as it came to be used as money.",
+        "TextHistoryMayanSociety3": "There was also slavery and these slaves were the labor force for the construction of the colossal pyramids, but they were also helped by the farmers.",
+        "TextHistoryMayanLife1": "Life of the Mayans",
+        "TextHistoryMayanLife2": "The main spectacle of the mayan civilization was a ball game.",
+        "TextHistoryMayanLife3": "According to some researchers, the players were prisoners of war and those who lost were decapitated, but in reality it was more than a simple game, for them it was a religious ceremonial, representing the passing of the stars and the sun (represented by the ball), which was the source of life.",
+        "TextGameBall": "Game of the Ball",
+        "TextHistoryMayanBeliefsThoughts1": "Beliefs and Thoughts of the Mayans",
+        "TextHistoryMayanBeliefsThoughts2": "The mayan civilization believed that before our world existed there were other worlds, but that these other worlds had been destroyed by different catastrophes and the universe was composed of three parts, the sky, the earth and the underworld, the sky had 13 layers (the last one in contact with the earth) and each of these layers was governed by one of the Oxalahuntikú, the god Itzamná, who was represented in the form of a reptile or iguana and governed the sky and the underworld which was below the earth and was divided into 9 layers and each of these layers was governed by one of the Bolontiku or Lords of the Night and there were also other gods who acted over everyday things, corn, honey, markets, etc.",
+        "ChronologyMayan": "Chronology",
+        "TextChronologyMayan1": "The mayans were the oldest known civilization in the Mesoamerican region, that is, México, Guatemala, The Salvador, Honduras, Nicaragua and Costa Rica.",
+        "TextChronologyMayan2": "Their civilization was divided into three main periods, the pre-classic period, the classic period and the post-classic period, which were preceded by the archaic period.",
+        "TextChronologyMayan3": "Modern studies consider these periods as arbitrary divisions of mayan chronology, and depending on the author, the definitions of the start and end dates can vary by as much as a century.",
+        "TextUbication": "Ubication of the Mayans",
+        "TextChronologyMayanArchaic1": "Archaic Period of the Mayan Civilization",
+        "TextChronologyMayanArchaic2": "It was during this period that the first human settlements were established and the development of agriculture began in the year 1200 a.C.",
+        "TextAgriculture": "Agriculture of the Mayans",
+        "TextChronologyMayanPreClassic1": "Pre-Classic Period of the Mayan Civilization",
+        "TextChronologyMayanPreClassic2": "This period was divided into the early, middle and late and began around 1000 b.C. and ended around 150 a.C.",
+        "TextChronologyMayanPreClassic3": "During this period, the mayans developed their first civilization, cultivating crops such as corn, beans, squash and chili.",
+        "TextChronologyMayanPreClassic4": "This period was also characterized by the existence of sedentary communities and the introduction of ceramics and baked clay figures.",
+        "TextChronologyMayanPreClassic5": "In the late pre-classic period, the city of The Mirador grew to an area of 16 square kilometers, as did the city of Tikal, which was already an important city.",
+        "TextSevenProphecies": "Seven Mayan Prophecies",
+        "TextChronologyMayanClassic1": "Classic Period of the Mayan Civilization",
+        "TextChronologyMayanClassic2": "This period lasted from 250 - 900 a.C. and the maya civilization reached its maximum development in the social, economic, political, religious and artistic areas.",
+        "TextChronologyMayanClassic3": "The population grew and so did the centers, as well as the cultivable area for the production of commodities, used in consumption and trade.",
+        "TextChronologyMayanClassic4": "In the economic aspect, barter was implemented, which facilitated exchange and economic development.",
+        "TextChronologyMayanClassic5": "Architectural activity was also of great relevance, since sites were built with hundreds of buildings, some with numerous rooms, monumental pyramids up to 70 meters high and numerous stelae and monuments, with long count dates and hieroglyphic inscriptions, in which references to historical events were given.",
+        "TextChronologyMayanClassic6": "In the large mayans cities of this period, the population was dispersed from the urban centers and the urban center had several public buildings, temples, shrines, palaces, pyramids, monasteries, ball games, observatories, platforms, etc. and all these places were located around the courtyards and squares.",
+        "TextCity": "Mayan City",
+        "TextChronologyMayanPostClassic1": "Post-classic period of the Mayan Civilization",
+        "TextChronologyMayanPostClassic2": "Between 900 - 1521 a.C., this period marked the decline of the mayan civilization and symbolized a great division among the mayans, becoming a militaristic period, which caused its decadence and later disappearance.",
+        "TextChronologyMayanPostClassic3": "Among the main causes of this disappearance are the frequent and strong earth quakes experienced in the region, the climate change that brought about an alteration in the rain regime, which hindered crops and made the area less healthy, the epidemics of malaria and yellow fever, the failure of the agricultural system, due to the abuse of deforestation and the conflict of the people against the minority group of priests and nobles.",
+        "TextChronologyMayanPostClassic4": "The large centers were abandoned and Yucatan was divided into many small provinces, which lived in a constant conflict.",
+        "TextChronologyMayanPostClassic5": "This was the beginning of the disintegration of that civilization, where, together with internal conflicts, natural calamities were added that worsened the situation more and more, such as a hurricane in the year 1464 a.C., a plague epidemic in the year 1480 a.C., high mortality due to wars in the year 1496 a.C., plagues in the year 1516 a.C., etc.",
+        "TextChronologyMayanPostClassic6": "After the fall of Mayapan to the spanish troops, the Lord of Chichén, ltzá, retired to the south and established his new capital in Ta Itzá or Tayasal, located on a small island in the middle of Lake Petén and this was the last mayan stronghold that resisted the siege of the spanish, until 1697 a.C."
+    },
+
+    "footer": 
+    {
+        "TextFooter": "Creator"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "header": 
+    {
+        "Home Page": "Home Page",
+        "About Us": "About Us",
+        "Viability and Marketing": "Viability and Marketing",
+        "History of Humanity": "History of Humanity"
+    },
+
+    "container": 
+    {
+        "TextFormContact": "Contact Form",
+        "TextContact": "In this contact form, you can send us an email about anything related to the organization of the company or about anything you want from us.",
+        "TextName": "Name",
+        "PlaceholderName": "Enter your name",
+        "TextEmail": "Email",
+        "PlaceholderEmail": "Enter your email",
+        "TextCommentary": "Commentary",
+        "PlaceholderCommentary": "Enter your commentary",
+        "TextButtonSendFormContact": "Send Form Contact",
+        "TextButtonRestoreFormContact": "Restore Form Contact"
+    },
+
+    "footer": 
+    {
+        "TextFooter": "Creator"
+    }
+}

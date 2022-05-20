@@ -1,0 +1,21 @@
+{
+    "header": 
+    {
+        "Home Page": "Home Page",
+        "Viability and Marketing": "Viability and Marketing",
+        "History of Humanity": "History of Humanity",
+        "Contact": "Contact"
+    },
+
+    "container": 
+    {
+        "TextAboutUs": "FABULAS PRAETERITA is a company created by several people, in which our goal is that through our technology, machinery, experts and workers, we can help and advise countries, governments, organizations, faculties, companies, etc, that are interested in investigating and discover through the stories, legends and myths, the most fascinating secrets and treasures of these ancient civilizations and to understand why these civilizations were so important and so ahead of their time and why today, they are still so fascinating and mysterious.",
+        "TextYosu": "Creator",
+        "TextAlejandro": "Adviser"
+    },
+
+    "footer": 
+    {
+        "TextFooter": "Creator"
+    }
+}
