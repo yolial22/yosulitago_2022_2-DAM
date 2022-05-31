@@ -20,3 +20,12 @@
 
 ### PÁGINA WEB
      - Página Web: https://github.com/yolial22/yosulitago_2022_2-DAM/tree/master/ProjecteFinal%20-%20Pagina%20Web/projectefinal
+
+### Video Análisis de la empresa
+     - https://github.com/yolial22/yosulitago_2022_2-DAM/blob/master/Presentación/Video%20Análisis%20de%20la%20empresa.mp4
+     
+### Video Página Web de la empresa
+     - https://github.com/yolial22/yosulitago_2022_2-DAM/blob/master/Presentación/Video%20Página%20Web%20de%20la%20empresa.mp4
+     
+## Memoria del Projecto Final
+     - https://github.com/yolial22/yosulitago_2022_2-DAM/blob/master/Documentación/Memoria%20del%20Proyecto%20Final.pdf
